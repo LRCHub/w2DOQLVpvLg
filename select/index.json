@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "Sun and Moon",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-13T13:09:31.188804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sun and Moon",
+      "artist": "Above & Beyond feat. Richard Bedford",
+      "has_synced": true,
+      "path": "select/01_Sun_and_Moon_Above_&_Beyond_feat._Richard_Bedford.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sun and Moon (feat. Richard Bedford)",
+      "artist": "Above & Beyond",
+      "has_synced": true,
+      "path": "select/02_Sun_and_Moon_(feat._Richard_Bedford)_Above_&_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sun and Moon",
+      "artist": "Claude-Michel Schönberg",
+      "has_synced": false,
+      "path": "select/03_Sun_and_Moon_Claude-Michel_Schönberg.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Earth And Sun And Moon",
+      "artist": "Midnight Oil",
+      "has_synced": true,
+      "path": "select/04_Earth_And_Sun_And_Moon_Midnight_Oil.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Earth And Sun And Moon (Album Version)",
+      "artist": "Midnight Oil",
+      "has_synced": true,
+      "path": "select/05_Earth_And_Sun_And_Moon_(Album_Version)_Midnight_Oil.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beyond Sun and Moon",
+      "artist": "Kardashev",
+      "has_synced": true,
+      "path": "select/06_Beyond_Sun_and_Moon_Kardashev.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sun and Moon",
+      "artist": "4everfreebrony feat. FritzyBeat",
+      "has_synced": true,
+      "path": "select/07_Sun_and_Moon_4everfreebrony_feat._FritzyBeat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sun and Moon",
+      "artist": "4everfreebrony/FritzyBeat",
+      "has_synced": true,
+      "path": "select/08_Sun_and_Moon_4everfreebrony_FritzyBeat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sun and Moon",
+      "artist": "Black Lab",
+      "has_synced": true,
+      "path": "select/09_Sun_and_Moon_Black_Lab.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Sun and Moon Roll Around Too Soon",
+      "artist": "The Temperance Movement",
+      "has_synced": false,
+      "path": "select/10_The_Sun_and_Moon_Roll_Around_Too_Soon_The_Temperance_Movement.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Sun and Moon",
+      "artist": "Cursive",
+      "has_synced": true,
+      "path": "select/11_The_Sun_and_Moon_Cursive.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "sun and moon",
+      "artist": "Anees",
+      "has_synced": true,
+      "path": "select/12_sun_and_moon_Anees.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "sun and moon",
+      "artist": "mage tears",
+      "has_synced": false,
+      "path": "select/13_sun_and_moon_mage_tears.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beyond Sun and Moon",
+      "artist": "Kardashev",
+      "has_synced": true,
+      "path": "select/14_Beyond_Sun_and_Moon_Kardashev.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sun and Moon",
+      "artist": "Anees",
+      "has_synced": true,
+      "path": "select/15_Sun_and_Moon_Anees.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sun and Moon (Live)",
+      "artist": "NCT 127",
+      "has_synced": false,
+      "path": "select/16_Sun_and_Moon_(Live)_NCT_127.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sun and Moon",
+      "artist": "Michael Franti & Spearhead",
+      "has_synced": false,
+      "path": "select/17_Sun_and_Moon_Michael_Franti_&_Spearhead.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Sun and the Moon",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/18_The_Sun_and_the_Moon_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Sun and the Moon",
+      "artist": "Go West",
+      "has_synced": true,
+      "path": "select/19_The_Sun_and_the_Moon_Go_West.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sun and Sky",
+      "artist": "Cranes",
+      "has_synced": true,
+      "path": "select/20_Sun_and_Sky_Cranes.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Sun and the Rainfall",
+      "artist": "Marsheaux",
+      "has_synced": true,
+      "path": "select/21_The_Sun_and_the_Rainfall_Marsheaux.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Sun and the Rainfall",
+      "artist": "Parralox",
+      "has_synced": false,
+      "path": "select/22_The_Sun_and_the_Rainfall_Parralox.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Sun and the Rainfall - Extended Version",
+      "artist": "Marsheaux",
+      "has_synced": true,
+      "path": "select/23_The_Sun_and_the_Rainfall_-_Extended_Version_Marsheaux.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "The Sun and the Moon and the Stars",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/24_The_Sun_and_the_Moon_and_the_Stars_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Sun And The Rainfall",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/25_The_Sun_And_The_Rainfall_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "The Sun and the Moon",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/26_The_Sun_and_the_Moon_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Sun and Steel",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/27_Sun_and_Steel_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Sun and Steel",
+      "artist": "Iron Butterfly",
+      "has_synced": false,
+      "path": "select/28_Sun_and_Steel_Iron_Butterfly.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "The Sun and the Moon",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/29_The_Sun_and_the_Moon_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "The Sun and the Sea",
+      "artist": "Barry Adamson",
+      "has_synced": true,
+      "path": "select/30_The_Sun_and_the_Sea_Barry_Adamson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sun and Moon",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Sun_and_Moon_aespa.txt"
+    }
+  ]
+}
