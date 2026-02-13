@@ -1,0 +1,67 @@
+# aespa – Sun and Moon
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+A beautiful tune
+Go look up above,day or night
+引かれ合う pure gravity
+君の光で I shine
+涙隠しても 分かってしまういつも
+言葉はいらない
+Stay by your side だって
+You'll make it through
+Just a little more, a little more
+We have all been down before
+But time to make it right
+Cuz together, there's no way we'll lose
+Just us two, every time
+寂しげな moonlight 君といれば
+暗闇も so bright 歩めるから
+これからは no lies 信じる promise
+Just the way
+that you call my name
+優しげな sunshine 今私を
+温める inside もう怖くないよ
+すべてが変わってく
+Shining through,I'm with you
+You're giving me the feelings
+もしこの広い宇宙で彷徨ってるなら
+You just gotta find me
+そっと微笑むから
+"I feel you with me"
+We have all been down before
+But time to make it right
+Cuz together, there's no way we'll lose
+Just us two, every time
+寂しげな moonlight 君といれば
+暗闇も so bright 歩めるから
+これからは no lies 信じる promise
+Just the way
+that you call my name
+優しげな sunshine 今私を
+温める inside もう怖くないよ
+すべてが変わってく
+Shining through,I'm with you
+You're giving me the feelings
+どんな暗い夜でさえ
+君といれば越えてゆける
+ありのままでいさせてくれたよね
+Thank you always baby
+We've been looking for
+each other our whole life
+私たちが照らす世界
+There's nothing we can't do
+共に乗り越えてく...
+It's for life
+寂しげな moonlight 君といれば
+暗闇も so bright 歩めるから
+これからは no lies 信じる promise
+Just the way
+that you call my name
+優しげな sunshine 今私を
+温める inside もう怖くないよ
+すべてが変わってく
+Shining through,I'm with you
+You're giving me the feelings
+```
